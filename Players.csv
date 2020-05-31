@@ -1,0 +1,96 @@
+Image,Player Name
+./test/Cristiano Ronaldo/320.jpg,Ronaldo
+./test/Cristiano Ronaldo/Cristiano-Ronaldo-news-Juventus-Real-Madrid-Messi-Man-Utd-1057939.jpg,Ronaldo
+./test/Cristiano Ronaldo/cristiano-ronaldo-portugal-2019-20_1nn5t2cbsekcz1thpm0ptkrfbw.jpg,Ronaldo
+./test/Lionel Messi/ihgsggsmages.jpg,Lionel Messi
+./test/Lionel Messi/imagghges.jpg,Lionel Messi
+./test/Lionel Messi/imaghvjjves.jpg,Lionel Messi
+./test/Lionel Messi/lionel-messi-cropped_11wcy8dg1g8lc1gc17bg8p2bhq_571_855.jpg,Lionel Messi
+./test/Lionel Messi/NIG-ARG_(6).jpg,Paulo Dybala
+./test/Paulo Dybala/GettyImages-1143966117.jpg,Paulo Dybala
+./test/Paulo Dybala/imaghfchges.jpg,Paulo Dybala
+./test/Paulo Dybala/imagjgcjes.jpg,Paulo Dybala
+./test/Paulo Dybala/imajfges.jpg,Sergio Aguero
+./test/Sergio Aguero/2398.jpg,Sergio Aguero
+./test/Sergio Aguero/80210adaf2e5e47a3d19703c4b641f07.jpg,Sergio Aguero
+./test/Sergio Aguero/Sergio-Aguero-Biographyhj-Facts-Childhood-Net-Worth-Life.jpg,Sergio Aguero
+./test/Sergio Aguero/skysports-sergio-aguero-aguero_4878990.jpg,Sergio Aguero
+./test/Sergio Aguero/w1240-p16x9-sergi_rc11732648e0_rtrmadp_3_soccer-champions-mci-s04.jpg,Sergio Aguero
+./test/Sergio Romero/images.jpg,Romero
+./test/Sergio Romero/imhjb bages.jpg,Romero
+./test/Sergio Romero/imuggghgages.jpg,Romero
+./test/Sergio Romero/index.jpg,Romero
+./test/Sergio Romero/ingcchdex.jpg,Romero
+./train/Cristiano Ronaldo/419777_1.jpg,Ronaldo
+./train/Cristiano Ronaldo/960x0.jpg,Ronaldo
+./train/Cristiano Ronaldo/ca-times.brightspotcdn.com.jpg,Ronaldo
+./train/Cristiano Ronaldo/Cristiano-Ronaldo-regrets-Real-Madrid-exit-European-Paper-Talk.jpg,Ronaldo
+./train/Cristiano Ronaldo/Cristiano-Ronaldo-t.jpg,Ronaldo
+./train/Cristiano Ronaldo/hi-res-9b3730dd1e9b245f1a5df14bb15c2095_crop_north.jpg,Ronaldo
+./train/Cristiano Ronaldo/image.jpg,Ronaldo
+./train/Cristiano Ronaldo/images.jpg,Ronaldo
+./train/Cristiano Ronaldo/imaggchches.jpg,Ronaldo
+./train/Cristiano Ronaldo/imhhages.jpg,Ronaldo
+./train/Cristiano Ronaldo/imvgggages.jpg,Ronaldo
+./train/Cristiano Ronaldo/index.jpg,Ronaldo
+./train/Cristiano Ronaldo/lsp8tg8_cristiano-ronaldo-juventus-afp_625x300_05_May_20.jpg,Ronaldo
+./train/Cristiano Ronaldo/rs_600x600-190109152451-600x600-cristianoronaldo-gj-1-9-19.jpg,Ronaldo
+./train/Lionel Messi/101661309_358072685172168_637062547576455168_n.jpg,Lionel Messi
+./train/Lionel Messi/26622.jpg,Lionel Messi
+./train/Lionel Messi/28410198-8321609-image-a-96_1589497931974.jpg,Lionel Messi
+./train/Lionel Messi/636654404591000000-GTY-980548622.jpg,Lionel Messi
+./train/Lionel Messi/82556019_472895040305086_5993437900186845184_n.jpg,Lionel Messi
+./train/Lionel Messi/960.jpg,Lionel Messi
+./train/Lionel Messi/images.jpg,Lionel Messi
+./train/Lionel Messi/la-liga-santander-fc-barcelona-v-villarreal_531fc574-dfbf-11e9-93be-d8edb8f85faf.jpg,Lionel Messi
+./train/Lionel Messi/lionel-messi-barcelona-2019-20_6v9f1g8ktz0516nmdti9iowmc.jpg,Lionel Messi
+./train/Lionel Messi/Lionel-Messi-Barcelona-F365.jpg,Lionel Messi
+./train/Lionel Messi/lionel-messi-cropped_rpg3q1xdxg1418gonq195w6bu_571_855.jpg,Lionel Messi
+./train/Lionel Messi/lionel_messi_photo_josep_lago_afp_getty_images_664928892_resizedjpg.jpg,Lionel Messi
+./train/Lionel Messi/Messi-3.jpg,Lionel Messi
+./train/Lionel Messi/unnamed.jpg,Lionel Messi
+./train/Paulo Dybala/320.jpg,Paulo Dybala
+./train/Paulo Dybala/960x0.jpg,Paulo Dybala
+./train/Paulo Dybala/Dybala.jpg,Paulo Dybala
+./train/Paulo Dybala/Dybala.Juventus.2018.19.sguardo.perso_.356x237.jpg,Paulo Dybala
+./train/Paulo Dybala/EHgyAx-WoAE0ogi.jpg,Paulo Dybala
+./train/Paulo Dybala/ihhvjmages.jpg,Paulo Dybala
+./train/Paulo Dybala/images.jpg,Paulo Dybala
+./train/Paulo Dybala/imahjvhvjges.jpg,Paulo Dybala
+./train/Paulo Dybala/imhhjages.jpg,Paulo Dybala
+./train/Paulo Dybala/Paulo+Dybala+ybYmNH_7H7Om.jpg,Paulo Dybala
+./train/Paulo Dybala/paulo-dybala-1470375941-800.jpg,Paulo Dybala
+./train/Paulo Dybala/paulo-dybala-4.jpg,Paulo Dybala
+./train/Paulo Dybala/paulo-dybala-juventus-2019-20_1d7jqc6tnjgxx1r0qucny2l6ev.jpg,Paulo Dybala
+./train/Paulo Dybala/yfjgjcjv.jpg,Paulo Dybala
+./train/Sergio Aguero/0_GettyImages-1209031996.jpg,Sergio Aguero
+./train/Sergio Aguero/23530.jpg,Sergio Aguero
+./train/Sergio Aguero/8dndbzuq4t08-sergio-aguero.jpg,Sergio Aguero
+./train/Sergio Aguero/d8f7c83b22e8c013235c23e1de3568b3.jpg,Sergio Aguero
+./train/Sergio Aguero/ggch.jpg,Sergio Aguero
+./train/Sergio Aguero/imachges.jpg,Sergio Aguero
+./train/Sergio Aguero/imageghhs.jpg,Sergio Aguero
+./train/Sergio Aguero/images.jpg,Sergio Aguero
+./train/Sergio Aguero/sergio-aguero-1280x720.jpg,Sergio Aguero
+./train/Sergio Aguero/Sergio-Aguero-Biography-Facts-Childhood-Net-Worth-Life.jpg,Sergio Aguero
+./train/Sergio Aguero/sergio-aguero-man-city-premier-league.jpg,Sergio Aguero
+./train/Sergio Aguero/sergio-aguero-manchester-city-2019_b1hlchjvyht01xn5veva6rqld.jpg,Sergio Aguero
+./train/Sergio Aguero/Sergio_AgÅero_2018.jpg,Sergio Aguero
+./train/Sergio Aguero/skysports-sergio-aguero-manchester-city_4874903.jpg,Sergio Aguero
+./train/Sergio Aguero/sports-virus-outbreak-the-latest_8507dc0c-8ba4-11ea-bfc8-a8b22bcdbb5c.jpg,Sergio Aguero
+./train/Sergio Romero/1437969619886.jpg,Romero
+./train/Sergio Romero/1_Club-Brugge-v-Manchester-United-UEFA-Europa-League.jpg,Romero
+./train/Sergio Romero/69124.jpg,Romero
+./train/Sergio Romero/fbl-wc-2018-eng-arg-ita-friendly-5b05d7e17134f6024500000f.jpg,Romero
+./train/Sergio Romero/ima hgjges.jpg,Romero
+./train/Sergio Romero/imag gjes.jpg,Romero
+./train/Sergio Romero/imagevhjgvjs.jpg,Romero
+./train/Sergio Romero/imahjgjges.jpg,Romero
+./train/Sergio Romero/imgg hkbcages.jpg,Romero
+./train/Sergio Romero/imggcages.jpg,Romero
+./train/Sergio Romero/imhkhages.jpg,Romero
+./train/Sergio Romero/imvjgjgjages.jpg,Romero
+./train/Sergio Romero/indbvex.jpg,Romero
+./train/Sergio Romero/indehkvjvgjx.jpg,Romero
+./train/Sergio Romero/inhjgjjgdex.jpg,Romero
+./test/Cristiano Ronaldo/1569310945_447431_noticia_normal.jpg,Ronaldo
